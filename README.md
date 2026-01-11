@@ -2,7 +2,7 @@
 
 💻 Full Stack Software Engineer specialized in **.NET & Modern Web Technologies**
 
-I'm a Full Stack Developer with 2+ years of professional experience building scalable web applications, modernizing legacy systems, and designing clean, maintainable architectures.
+I'm a Full Stack Software Engineer with 2+ years of professional experience building scalable web applications, modernizing legacy systems, and designing clean, maintainable architectures.
 
 ---
 
