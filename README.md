@@ -35,7 +35,7 @@ I'm a Full Stack Developer with 2+ years of professional experience building sca
 
 ### Cloud & DevOps
 - Microsoft Azure · Google Cloud Platform
-- Docker · GitHub Actions (CI/CD)
+- Docker · Git/GitHub · CI/CD
 
 ---
 
@@ -65,5 +65,5 @@ Integrated cloud AI tools (Vertex AI & Gemini) to analyze unstructured customer 
 
 ## 📊 GitHub Stats
 
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanmartinez26&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanmartinez26&layout=compact&theme=tokyonight)
+![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanml26&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanml26&layout=compact&theme=tokyonight)
