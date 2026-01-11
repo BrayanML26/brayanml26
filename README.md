@@ -37,6 +37,10 @@ I'm a Full Stack Software Engineer with 2+ years of professional experience buil
 - Microsoft Azure · Google Cloud Platform
 - Docker · Git/GitHub · CI/CD
 
+### Tools & Other
+- Postman · Figma
+- Agile/Scrum/Kanban
+
 ---
 
 ## 📌 Featured Projects
