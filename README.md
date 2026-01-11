@@ -61,9 +61,4 @@ Integrated cloud AI tools (Vertex AI & Gemini) to analyze unstructured customer 
 - 💼 LinkedIn: https://www.linkedin.com/in/brayanmartinez26/
 - 📧 Email: brayan.26112001@gmail.com
 
----
 
-## 📊 GitHub Stats
-
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanml26&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanml26&layout=compact&theme=tokyonight)
