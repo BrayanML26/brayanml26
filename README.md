@@ -69,7 +69,7 @@ I specialize in backend architecture, RESTful API design, legacy system moderniz
 
 ## 🌐 Portfolio
 
-🔗 https://brayanmartinez.vercel.app
+🔗 https://brayanmartinez.dev
 
 ---
 
