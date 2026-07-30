@@ -1,21 +1,22 @@
 # Hi 👋, I'm Brayan Martinez
 
-## .NET Backend Engineer | Production Systems | Cloud & CI/CD
+## Software Engineer | ASP.NET Core • React • TypeScript • REST APIs • SQL • Azure • Docker • AI
 
-Backend-focused engineer with 2+ years of experience designing and delivering scalable, production-grade systems using ASP.NET Core and C#.
+Software Engineer with professional experience building production-grade web applications using ASP.NET Core, React, TypeScript, SQL, cloud platforms, and modern DevOps practices.
 
-I specialize in backend architecture, RESTful API design, legacy system modernization, and reliable deployment practices across cloud and on-premises environments.
+My strongest backend expertise is in .NET, but I enjoy building complete software solutions—from designing scalable REST APIs and database models to building modern user interfaces and deploying reliable applications through automated CI/CD pipelines.
 
 ---
 
 ## 🚀 What I Do
 
-- 🏗️ Design scalable backend architectures using ASP.NET Core
-- 🔄 Modernize legacy desktop systems (WinForms → Web)
-- ⚙️ Implement CI/CD pipelines with blue-green deployment strategies
-- ☁️ Build cloud-integrated applications (Azure, GCP, AWS S3)
-- 📊 Optimize performance through cache-driven designs
-- 🤖 Integrate AI services (Vertex AI, Gemini) into enterprise workflows
+- 🏗️ Build scalable web applications and software architectures
+- 🔄 Modernize legacy systems into modern web platforms
+- ⚙️ Design secure REST APIs and business-driven backend solutions
+- ☁️ Develop cloud-native applications using Azure, GCP, and AWS
+- 🚀 Implement CI/CD pipelines and automated deployment strategies
+- 📊 Optimize application performance and scalability
+- 🤖 Integrate AI-powered capabilities into enterprise software
 
 ---
 
@@ -24,46 +25,90 @@ I specialize in backend architecture, RESTful API design, legacy system moderniz
 ### Backend
 - ASP.NET Core (MVC / Web API)
 - C#
+- Node.js
+- Python
 - Entity Framework Core
 - Dapper
-- RESTful API Design
-- SOLID Principles
-- Clean Architecture
+- REST APIs
+- GraphQL
+- Odoo
+
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- Vue.js
+- Razor Views
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
 
 ### Databases
 - SQL Server
 - PostgreSQL
+- MySQL
+- MongoDB
 
 ### Cloud & DevOps
 - Microsoft Azure
+- Google Cloud Platform
+- AWS
 - Docker
-- Azure DevOps (CI/CD Pipelines)
-- Git / GitHub
+- Azure DevOps
+- GitHub Actions
+- CI/CD
+- Blue-Green Deployments
 
-### Frontend (when required)
-- React
-- Vue
-- TypeScript
-- Razor Views
-- Tailwind CSS
-- Bootstrap
+### AI & Integrations
+- Vertex AI
+- Gemini
+- Microsoft Graph API
+- Python.NET
+- AWS S3
+- XML / JSON Integrations
+
+### Architecture & Engineering
+- SOLID Principles
+- Clean Architecture
+- Dependency Injection
+- Layered Architecture
+- RESTful API Design
+
+### Development Tools
+- Git
+- GitHub
+- Postman
+- Bruno
+- Swagger / OpenAPI
+- Scalar
+- Claude Code
+- ChatGPT Codex
 
 ---
 
 ## 📌 Selected Impact
 
-- Migrated a 10+ year legacy WinForms system to ASP.NET Core MVC, significantly improving scalability and long-term maintainability.
-- Architected a multi-country platform achieving 25–50x configuration load-time improvements through cache-driven and SOLID-based design.
-- Designed and implemented CI/CD pipelines for cloud and on-prem (IIS) deployments, incorporating blue-green deployment and rollback mechanisms to ensure production stability.
-- Built AI-powered modules using cloud-based machine learning services to process and analyze unstructured user feedback.
+- 🚀 Led the migration of a 10+ year legacy Windows Forms system to ASP.NET Core MVC, significantly improving scalability and long-term maintainability.
+
+- ⚡ Architected a multi-country platform that achieved **25–50x faster** configuration loading through a cache-driven architecture and SOLID design principles.
+
+- 🔄 Designed and implemented Azure DevOps CI/CD pipelines supporting cloud and on-premises (IIS) deployments with blue-green strategies and rollback mechanisms.
+
+- 🤖 Built AI-powered enterprise features using Google Vertex AI and Gemini to automate the analysis of unstructured business data.
+
+- 🔒 Developed secure integrations involving cryptographic signing, AWS S3 certificate management, and DGII-compliant electronic invoicing for Odoo.
 
 ---
 
 ## 🌱 Currently Deepening Knowledge In
 
-- Distributed systems fundamentals
-- Containerization strategies
-- Advanced system design patterns
+- Distributed Systems
+- Event-Driven Architecture
+- Cloud-Native Applications
+- Advanced System Design
+- Software Architecture
+- Artificial Intelligence
 
 ---
 
@@ -75,9 +120,12 @@ I specialize in backend architecture, RESTful API design, legacy system moderniz
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/brayanmartinez26/
-- 📧 Email: brayan.26112001@gmail.com
+💼 LinkedIn  
+https://www.linkedin.com/in/brayanmartinez26/
+
+📧 Email  
+brayan.26112001@gmail.com
 
 ---
 
-⭐ Always open to backend-focused roles involving scalable systems, cloud architecture, and production-grade engineering.
+> **Always open to Software Engineer opportunities involving scalable web applications, cloud platforms, AI-powered products, and modern software architecture.**
