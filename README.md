@@ -25,13 +25,14 @@ My strongest backend expertise is in .NET, but I enjoy building complete softwar
 ### Backend
 - ASP.NET Core (MVC / Web API)
 - C#
-- Node.js
-- Python
 - Entity Framework Core
 - Dapper
 - REST APIs
 - GraphQL
-- Odoo
+- Node.js
+- NestJS
+- Python
+- Java / Spring Boot
 
 ### Frontend
 - React
