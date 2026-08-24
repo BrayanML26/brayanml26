@@ -1,10 +1,10 @@
 # Hi 👋, I'm Brayan Martinez
 
-## Software Engineer | ASP.NET Core • React • TypeScript • REST APIs • SQL • Azure • Docker • AI
+## Software Engineer | .NET • ASP.NET Core • Node.js • NestJS • React • TypeScript • SQL Server • PostgreSQL
 
-Software Engineer with professional experience building production-grade web applications using ASP.NET Core, React, TypeScript, SQL, cloud platforms, and modern DevOps practices.
+Software Engineer with professional experience designing and building production-grade web applications, backend services, REST APIs, and enterprise software solutions using .NET, Node.js, React, TypeScript, SQL, PostgreSQL, cloud platforms, and modern DevOps practices.
 
-My strongest backend expertise is in .NET, but I enjoy building complete software solutions—from designing scalable REST APIs and database models to building modern user interfaces and deploying reliable applications through automated CI/CD pipelines.
+My strongest backend expertise is in .NET, while I also have experience with Node.js and NestJS. I enjoy building complete software solutions—from designing scalable REST APIs and database models to building modern user interfaces and deploying reliable applications through automated CI/CD pipelines.
 
 ---
 
@@ -23,14 +23,14 @@ My strongest backend expertise is in .NET, but I enjoy building complete softwar
 ## 🛠️ Core Stack
 
 ### Backend
-- ASP.NET Core (MVC / Web API)
 - C#
+- .NET / ASP.NET Core (MVC / Web API)
 - Entity Framework Core
 - Dapper
-- REST APIs
-- GraphQL
 - Node.js
 - NestJS
+- REST APIs
+- GraphQL
 - Python
 - Java / Spring Boot
 
@@ -129,4 +129,4 @@ brayan.26112001@gmail.com
 
 ---
 
-> **Always open to Software Engineer opportunities involving scalable web applications, cloud platforms, AI-powered products, and modern software architecture.**
+> **Always open to Software Engineer, Backend Engineer, and Full Stack Software Engineer opportunities involving scalable applications, cloud platforms, AI-powered products, and modern software architecture.**
