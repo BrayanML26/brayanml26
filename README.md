@@ -2,7 +2,7 @@
 
 ## Software Engineer | .NET • C# • ASP.NET Core • React • TypeScript • SQL • Azure • Generative AI
 
-Software Engineer with almost 3 years of professional experience building web applications, REST APIs and enterprise software with **.NET** and **React/TypeScript**, plus hands-on work with **generative AI** (LLM integration and RAG on Azure).
+Software Engineer with professional experience building web applications, REST APIs and enterprise software with **.NET** and **React/TypeScript**, plus hands-on work with **generative AI** (LLM integration and RAG on Azure).
 
 My strongest area is .NET backend, complemented by Python, Node.js/NestJS and modern frontend. I like owning a feature end to end: database model, API, UI, tests and automated deployment.
 
