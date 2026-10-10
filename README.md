@@ -1,146 +1,63 @@
 # Hi 👋, I'm Brayan Martinez
 
-## Software Engineer | .NET • ASP.NET Core • Node.js • React • TypeScript
+## Software Engineer | .NET • C# • ASP.NET Core • React • TypeScript • SQL • Azure • Generative AI
 
-Software Engineer with professional experience designing and building production-grade web applications, backend services, REST APIs, and enterprise software solutions using .NET, Node.js, React, TypeScript, SQL, PostgreSQL, cloud platforms, and modern DevOps practices.
+Software Engineer with almost 3 years of professional experience building web applications, REST APIs and enterprise software with **.NET** and **React/TypeScript**, plus hands-on work with **generative AI** (LLM integration and RAG on Azure).
 
-My strongest backend expertise is in .NET, complemented by practical experience with Node.js, NestJS, Python, and modern frontend technologies. I enjoy building complete software solutions from designing scalable REST APIs and database models to building modern user interfaces and deploying reliable applications through automated CI/CD pipelines.
+My strongest area is .NET backend, complemented by Python, Node.js/NestJS and modern frontend. I like owning a feature end to end: database model, API, UI, tests and automated deployment.
 
 ---
 
 ## 🚀 What I Do
 
-* 🏗️ Build scalable and maintainable web applications
-* 🔄 Modernize legacy systems into modern web platforms
-* ⚙️ Design secure REST APIs and business-driven backend solutions
-* ☁️ Build and deploy applications across cloud and on-premise environments
-* 🚀 Implement CI/CD pipelines and automated deployment strategies
-* 📊 Optimize application performance, scalability, and reliability
-* 🤖 Integrate AI-powered capabilities into business applications
+* 🏗️ Build maintainable web applications and secure REST APIs
+* 🔄 Modernize legacy systems (Web Forms / Windows Forms → ASP.NET Core)
+* 🚢 CI/CD with Azure DevOps and GitHub Actions: blue-green deployments, health checks, rollback
+* 🤖 Integrate LLMs into business applications: structured outputs, function calling, RAG, evaluation
+* 🔌 System integrations: ERPs, WhatsApp Cloud API, Microsoft Graph, e-invoicing
 
 ---
 
-## 🛠️ Core Stack
+## 📌 Selected Work
 
-### Backend & APIs
-
-* C#
-* .NET / ASP.NET Core (MVC / Web API)
-* Entity Framework Core
-* Dapper
-* LINQ
-* Node.js
-* NestJS
-* REST APIs
-* GraphQL
-* Python
-* BullMQ
-
-### Frontend
-
-* React
-* TypeScript
-* JavaScript
-* Vue.js
-* Blazor
-* Razor Views
-* Razor Pages
-* HTML/CSS
-* Tailwind CSS
-* Bootstrap
-
-### Databases & Data
-
-* SQL Server
-* PostgreSQL
-* MySQL
-* MongoDB
-* SQLite
-* Redis
-* Prisma
-
-### Cloud & DevOps
-
-* Microsoft Azure
-* Azure DevOps
-* Google Cloud Platform
-* AWS S3
-* Cloudflare R2
-* Docker
-* GitHub Actions
-* CI/CD
-* IIS
-* Blue-Green Deployments
-
-### Architecture & Engineering
-
-* Clean Architecture
-* SOLID Principles
-* Design Patterns
-* Dependency Injection
-* System Integration
-* Caching
-* Background Jobs
-* Concurrency Control
-
-### AI & Integrations
-
-* OpenAI
-* Vertex AI
-* Gemini
-* LLM Integration
-* Microsoft Graph API
-* Python.NET
-* AWS S3
-* XML / JSON Integrations
-
-### Development Tools
-
-* Git
-* GitHub
-* Postman
-* Swagger / OpenAPI
+* **Legacy modernization:** led the migration of a 10+ year Windows Forms system to ASP.NET Core MVC and migrated most of a multi-company ERP from Web Forms to ASP.NET Core 8.
+* **CI/CD:** designed Azure DevOps pipelines (DEV and PROD) with blue-green deployment and rollback; documented them for the team.
+* **AI in production:** hotel-review analysis module using Gemini (Vertex AI) with structured output and a React UI.
+* **RAG on Azure (personal project):** document assistant with Azure AI Search (hybrid search + semantic ranking) and a Foundry agent with citations, evaluated on 18 test cases.
+* **Configuration platform:** multi-country landing pages driven by JSON with in-memory caching (config retrieval from ~50 ms to roughly 1 or 2 ms).
+* **Integrations:** DGII e-invoicing module for Odoo (e-CF types E31 to E47) with Python, .NET and AWS S3.
+* **Citas.do:** multi-tenant appointment SaaS (.NET 10, Clean Architecture, PostgreSQL, WhatsApp bot, xUnit tests in CI).
 
 ---
 
-## 📌 Selected Impact
+## 🛠️ Stack
 
-* 🚀 Led the migration of a 10+ year legacy Windows Forms system to ASP.NET Core MVC, improving performance and long-term maintainability.
+**Backend:** C# · .NET / ASP.NET Core · Entity Framework Core · Dapper · Python · Node.js · NestJS · REST · GraphQL
 
-* ⚡ Architected a multi-country platform that achieved **25–50x faster** configuration loading through a cache-driven architecture and SOLID design principles.
+**Frontend:** React · TypeScript · JavaScript · Tailwind CSS · Bootstrap · Razor · Blazor
 
-* 🔄 Designed and implemented Azure DevOps CI/CD pipelines supporting cloud and on-premises (IIS) deployments with blue-green strategies and rollback mechanisms.
+**Data:** SQL Server · PostgreSQL · MySQL · MongoDB · Redis
 
-* 🤖 Built AI-powered enterprise features using Google Vertex AI and Gemini to automate the analysis of unstructured business data.
+**Cloud & DevOps:** Azure (App Service, Entra ID, AI Search, Foundry) · Azure DevOps · GitHub Actions · Docker · AWS (S3, IAM) · GCP
 
-* 🔒 Developed secure integrations involving cryptographic signing, AWS S3 certificate management, and DGII-compliant electronic invoicing for Odoo.
+**AI:** Azure OpenAI · OpenAI · Gemini / Vertex AI · RAG · function calling · MCP · LLM evaluation
 
----
-
-## 🌱 Currently Deepening Knowledge In
-
-* Distributed Systems
-* Event-Driven Architecture
-* Advanced System Design
-* Software Architecture
-* Artificial Intelligence
+**Quality:** Clean Architecture · SOLID · xUnit · Moq · Jest · Swagger/OpenAPI
 
 ---
 
-## 🌐 Portfolio
+## 🌱 Currently Learning
 
-🔗 https://brayanmartinez.dev
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn
-https://www.linkedin.com/in/brayanmartinez26/
-
-📧 Email
-[brayan.26112001@gmail.com](mailto:brayan.26112001@gmail.com)
+* Semantic Kernel (C#) and agent frameworks
+* Angular
+* Event-driven architecture
 
 ---
 
-> **Open to Software Engineer, Backend Engineer, and Full Stack Software Engineer opportunities involving scalable applications, cloud platforms, AI-powered products, and modern software architecture.**
+## 📫 Connect
+
+* 🌐 Portfolio: https://brayanmartinez.dev
+* 💼 LinkedIn: https://www.linkedin.com/in/brayanmartinez26/
+* 📧 brayan.26112001@gmail.com
+
+> **Open to Software Engineer, Backend and Full-Stack opportunities involving .NET, cloud and AI-powered products.**
